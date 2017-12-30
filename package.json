@@ -22,6 +22,7 @@
     "rimraf": "^2.6.2"
   },
   "dependencies": {
-    "bunyan": "^1.8.12"
+    "bunyan": "^1.8.12",
+    "sax-stream": "^1.2.3"
   }
 }
